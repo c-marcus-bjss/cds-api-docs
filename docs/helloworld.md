@@ -17,10 +17,10 @@
  
  ## Authoring and Reviewing
 
-Pages are written in markup as per confluence. StackEdit navigation tutorials can be found in this repo here: 
+Pages are written in markup as per confluence. StackEdit navigation tutorials can be here: 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTU0NzMzOSwtMjA0NjgxODA3NywtMT
-Y0Mjk1ODMwOCwxNTQ5NzE2MDAwLDE3OTY3NzFdfQ==
+eyJoaXN0b3J5IjpbLTE3MjkxODA4NzgsLTIwNDY4MTgwNzcsLT
+E2NDI5NTgzMDgsMTU0OTcxNjAwMCwxNzk2NzcxXX0=
 -->
