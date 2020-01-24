@@ -20,7 +20,7 @@
 Pages are written in markup as per confluence. StackEdit navigation tutorials can be [here](https://github.com/cmarcus-nhs/cds-api-docs/blob/develop/docs/stackedit/Stackedit%20Tutorial.md)
 Stackedit allows you to add inline comments which are stored as metadata. These are not visible in the rendered markdown, but do show up on StackEdit. 
 An example is attached here.
-	  
+The review process then works exactly like confluence, with the caveat that you cannot explicitly tag people. 	  
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHaGdFRTBTSmZ1V3V0SmJ2Ijp7In
@@ -30,6 +30,6 @@ JReHlUdUJzUExEQW1hdiI6eyJkaXNjdXNzaW9uSWQiOiJHaGdF
 RTBTSmZ1V3V0SmJ2Iiwic3ViIjoiZ2g6NjAyMjQ3NDgiLCJ0ZX
 h0IjoiQ29saW4gQmF0ZXNvbiAtIENhbiB5b3UgcmV2aWV3IHRo
 aXMgcGFnZSBwbGVhc2UiLCJjcmVhdGVkIjoxNTc5ODYxMDE5ND
-A5fX0sImhpc3RvcnkiOlsxOTQzMjIyMTI3LC0xNzI5MTgwODc4
+A5fX0sImhpc3RvcnkiOlstMTA1NTk0NDUxLC0xNzI5MTgwODc4
 XX0=
 -->
