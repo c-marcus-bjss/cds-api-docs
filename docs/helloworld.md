@@ -17,10 +17,10 @@
  
  ## Authoring and Reviewing
 
-
+Pages are written in markup as per confluence. StackEdit navigation tutorials can be found in this repo here: 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4MTgwNzcsLTE2NDI5NTgzMDgsMT
-U0OTcxNjAwMCwxNzk2NzcxXX0=
+eyJoaXN0b3J5IjpbLTY2MTU0NzMzOSwtMjA0NjgxODA3NywtMT
+Y0Mjk1ODMwOCwxNTQ5NzE2MDAwLDE3OTY3NzFdfQ==
 -->
