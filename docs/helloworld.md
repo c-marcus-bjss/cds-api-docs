@@ -11,15 +11,16 @@
  
 |Repository URL|Value  |
 |--|--|
-|  |  |
+| https://github.com/cmarcus-nhs/cds-api-docs |`develop`  |
 
-  and Branch 'develop'
- 6. Click OK and Allow GitHub to authorise.
+ 5. Click OK and Allow GitHub to authorise.
+ 
+ ## Authoring and Reviewing
 
 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjM0MzYzLC0xNjQyOTU4MzA4LDE1ND
-k3MTYwMDAsMTc5Njc3MV19
+eyJoaXN0b3J5IjpbLTIwNDY4MTgwNzcsLTE2NDI5NTgzMDgsMT
+U0OTcxNjAwMCwxNzk2NzcxXX0=
 -->
