@@ -26,8 +26,7 @@ The review process then works exactly like confluence, with the caveat that you 
 
 When a version is ready to be published, a Pull Request can be created in GitHub [here](https://github.com/cmarcus-nhs/cds-api-docs/compare). GitHub's full review process  
 
-## Testing
-Just testing
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJHaGdFRTBTSmZ1V3V0SmJ2Ijp7In
 RleHQiOiJBbiBleGFtcGxlIGlzIGF0dGFjaGVkIGhlcmUuIiwi
@@ -40,7 +39,7 @@ A5fSwiUWlmNmVKQ0lycEM2U3BtMyI6eyJkaXNjdXNzaW9uSWQi
 OiJHaGdFRTBTSmZ1V3V0SmJ2Iiwic3ViIjoiZ2g6NTQ4MDE1NT
 UiLCJ0ZXh0IjoiTWFkZSBhIGNvdXBsZSBvZiBzbGlnaHQgbW9k
 aWZpY2F0aW9ucyBAY21hcmN1cy1uaHMiLCJjcmVhdGVkIjoxNT
-c5ODYxNjQzMDU3fX0sImhpc3RvcnkiOlstODcxMjE2Mzg0LDcx
-MDQ1MjczNCwtMjk1OTY3OTc1LC01NTc3NDA1MDIsLTEwNTU5ND
-Q1MV19
+c5ODYxNjQzMDU3fX0sImhpc3RvcnkiOls3MTA0NTI3MzQsNzEw
+NDUyNzM0LC0yOTU5Njc5NzUsLTU1Nzc0MDUwMiwtMTA1NTk0ND
+UxXX0=
 -->
