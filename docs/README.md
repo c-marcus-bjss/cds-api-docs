@@ -24,7 +24,7 @@ The review process then works exactly like confluence, with the caveat that you 
 
 ## Publishing
 
-When a version is ready to be published, a Pull Request can be created in GitHub [here](https://github.com/cmarcus-nhs/cds-api-docs/compare). GitHub's full review process supports comments, email notifications, conversations, updates on the fly etc. After all the approvers have approved the version, it can be merged to the `master` branch, which is suitable for publishing.  
+When a version is ready to be published, a Pull Request can be created in GitHub [here]([https://github.com/cmarcus-nhs/cds-api-docs/compare/master...develop](https://github.com/cmarcus-nhs/cds-api-docs/compare/master...develop)). GitHub's full review process supports comments, email notifications, conversations, updates on the fly etc. After all the approvers have approved the version, it can be merged to the `master` branch, which is suitable for publishing.  
 
 
 <!--stackedit_data:
@@ -39,6 +39,7 @@ A5fSwiUWlmNmVKQ0lycEM2U3BtMyI6eyJkaXNjdXNzaW9uSWQi
 OiJHaGdFRTBTSmZ1V3V0SmJ2Iiwic3ViIjoiZ2g6NTQ4MDE1NT
 UiLCJ0ZXh0IjoiTWFkZSBhIGNvdXBsZSBvZiBzbGlnaHQgbW9k
 aWZpY2F0aW9ucyBAY21hcmN1cy1uaHMiLCJjcmVhdGVkIjoxNT
-c5ODYxNjQzMDU3fX0sImhpc3RvcnkiOlstMTkzMzAxMDcyOSwt
-Mjk1OTY3OTc1LC01NTc3NDA1MDIsLTEwNTU5NDQ1MV19
+c5ODYxNjQzMDU3fX0sImhpc3RvcnkiOlszMTg5MzM5MTAsLTE5
+MzMwMTA3MjksLTI5NTk2Nzk3NSwtNTU3NzQwNTAyLC0xMDU1OT
+Q0NTFdfQ==
 -->
